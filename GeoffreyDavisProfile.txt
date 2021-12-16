@@ -1,0 +1,28 @@
+<html>
+<body>
+
+
+<h1>Personal Infomation</h1>
+
+<p>Geoffrey steven Davis</p> 
+
+<p>s3930693</p> 
+
+<p>s3930693@student.rmit.edu.au </p>
+
+<h1>Basic Infomation</h1>
+
+<p>My name is Geoffrey Davis, I am 27 years of age and currently live in far north QLD Australia. I'm an Australian citizen and unfortunately only speak English, I have though been lucky enough to have lived overseas for several years. I graduated high school in 2011 and then went on the starting a 4-year apprenticeship as a heavy diesel fitter, after completing my apprenticeship I had the opportunity to go work on a copper mine in Zambia (Africa) where I was based for 2 years working for the construction team finalizing the mine as it was in the process of getting build. After my stint in Africa, I returned to Australia where I have been working in several industries such as hospitality and mechanic. My passion is WW2 aircraft, I love the background and history of the aircraft as well as the mechanics behind them, the mechanics behind dogfighting intrigue me and the skill that was required to fly back in the 1940s, I build model planes when I get time as well as fly on WW2 flight simulators.</p>
+
+<h1>Intrest In IT</h1>
+
+<p>My interest in IT started when I was a young boy, I've been a gamer since I can remember and I think because of that my interest in IT just grew from there. When I got my first computer, I started doing things like downloading games and movies through torrents as back then my internet wasn’t so great so I could only really play single player games, after a bit I started to mod games and would run into Erros with files and system errors, being determined I use to scour the web trying to find the solution to the problem whether it be changing the games settings in notepad or changing IPs etc, all so I could solve the problem. While doing so I found myself really enjoying the fault-finding process and the satisfaction achieved when I finally fixed the issue. Ever since then my knowledge has grown and I find myself wanting to dig deeper in the system and structure of computers and programs. I get a big kick from the programming side of things and as I've only just scratched the surface, I want to expand my knowledge. As stated, my experience in IT has basically been self-taught but I have been working with and around computers since I was a young boy and have a pretty could understanding of the fundamentals. I have chosen to start study with RMIT as I'm at the age where I've had a chance to try several different fields of work and have always found myself wanting something more, I've always wanted to work in IT I just never made the leap forward to make a start. But now I have just had my first child I have made the decision to make an effort and going for it. I hope to be able to one day work from home allowing me to spend more time with my daughter and be able to travel. By starting my introduction into IT and introduction into programming I hope to get a good start in understanding the basics of programming and a good insight into what IT path I want to go down.</p>
+
+<h1>Ideal Job</h1>
+
+<p>
+
+<h1>Personal Profile</h1>
+
+
+<h1>Project Idea</h1>
