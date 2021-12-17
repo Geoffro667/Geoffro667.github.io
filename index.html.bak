@@ -103,30 +103,6 @@ These are just some of the many key requirements that need to be met for the job
 
 <h1>Project Idea</h1>
 
-<h3>Employer management APP</h3>
-
-<p>My project idea is going to be designing an app for work, the idea of the app is to allow for easy clocking in and clocking off as well as having alarms for your breaks, The app will also include all your personal information for easy access such as licenses and medical conditions. The idea being that if you are if another staff member needs to know anything about you they can open their app and get the required information. Obviously for security purposes not all your information will just be revealed to everyone more so managers and the appropriate staff.  </P>
-
-<h3>My motivation behind the idea</h3>
-
-<p>I believe this app will be a great addition to the workforce as having a live tracker of your work day allows for accurate and reliable data, it will allow your boss/manager to see exactly what time you're arriving to work as well as when you're having your breaks and when you're clocking off. The idea of having all your credentials available from one source is to make task like presenting your RSA to licensing or your mining permits to officers an easy and non-time-consuming task. I have personally been in the workforce for about 10 years now and there are similar apps like Xero:<a href="https://www.xero.com/au/try-now/accounting/xero-accounting-software/?gclid=EAIaIQobChMIzce3htDp9AIVaJJmAh2PfQC1EAAYASAAEgJuP_D_BwE&gclsrc=aw.ds/">Xero Website Link</a>. Xero is an accounting app that allows the employer to manage pays and pay slips, but the down side of the app is that the staff just enter their hours into the app and it's hard for the employer to track what hours the staff have actually achieved. There are systems in place for desktops already which do the task but they Arnt very useful for jobs that are outside of the office like on the mines or a farm hence a portable system is a great idea.</P>
-
-<h3>Kry features of the APP design</h3>
-
-<p>The whole idea behind the app is to make the tracking of employees easier and more viable. One of the key features as discussed above is the ability to check into jobs with your own mobile device. The app will have a feature where the employer can have certain task and jobs inputted into the system for the day, week or even month. After inputting the jobs, the employer can add things like time stamps to let the employee know what their time schedule is for the task and add notes for the employee to read. The employee once clocked on will be alerted by the app when they are required to have breaks and when they are getting close to their finish time, they will also be able to communicate with the employer about adding more time etc. if the job requires it. Having this feature gives the employer a more accurate idea of what times their employees are working and also making sure they are taking breaks when required. The other key feature of the app is the ability to store and upload key documents. These documents can include things like RSA, s, white cards, permits, medical details etc. The idea being is that if you're on a job for example working in hospitality and licensing come into the venue to check everyone's credentials, instead of the employer having to dig through files or sift through emails they can access everyone's details from the app saving time and making for an easy access solution. This also come into play with medical history of employees, say and employee at work as a condition like epilepsy but the new manager on the job isn't aware of the, all they would have to do is quickly bring up the employees' profile and will know what is happening in this case the employee has epilepsy and the required action can be taken. The app like Xero will have all employees pay details in one place, as everything is on the one app the employee's hours will also be easily available for the account and by doing this it also makes it easy for times to be approved by the employer. </p>
-
-<h3>Tools and software that will be used for the task</h3>
-
-<p>To carry out this project I plan on using MIT App Inventor, a web application integrated development environment. It’s a great tool for beginner programmers and works on both major platforms Android and IOS. Its graphical user interface (GUI) uses programming languages similar to Scratch and StarLogo, allowing users to drag and drop to create an application to run on android, the iOS program is still in development so for this project I will stick with android. </p>
-
-<h3>Required skills for the task ahead</h3>
-
-<p>To complete this project the main skill that will be required is to be able to use MIT App Inventors block-based programming language based on Google Blocky, but using Mit App Inventure is not a daunting task as the basics of the program are pretty straight forward and the website provides multiple tutorials all the way from beginner to advanced. I believe finding people with the skills and knowledge of the software won't be a hard task as stated before even if the user has next to know experience the program itself offers a vast range of methods to help users along the way. The app itself is free to use making it viable and easy for anyone to get their hands taking a lot of stress out of starting the task. </p>
-
-<h3>Summary of overall project</h3>
-
-<p>If the team is able to complete the task and we are successful in completing a working app, it will be a great confidents booster to me personally as working with code and creating programs is defiantly a career path I want to peruse. By completing the task successfully, it will inspire me to move on to bigger and better projects and help me gain the knowledge and experience in programming required for certain jobs like the one discussed in this assignment. </p>
-
 </body>
 </html>
 
